@@ -8,6 +8,6 @@ public class MainTest {
     @Test
     public void testAdd() {
         Main main = new Main();
-        assertEquals(5, main.add(2, 9), "2 + 9 devrait être égal à 5"); // This will cause the test to fail
+        assertEquals(5, main.add(2, 3), "2 + 9 devrait être égal à 5"); // This will cause the test to fail
     }
 }
