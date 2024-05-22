@@ -8,6 +8,6 @@ public class MainTest {
     @Test
     public void testAdd() {
         Main main = new Main();
-        assertEquals(5, main.add(2, 9), "2 + 3 devrait être égal à 5");
+        assertEquals(5, main.add(2, 3), "2 + 3 devrait être égal à 5");
     }
 }
