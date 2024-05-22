@@ -1,9 +1,9 @@
 import org.example.Main;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.Test;
-import static org.junit.Assert.assertTrue;
 
-public class test {
+
+public class MainTest {
 
  @Test
     public void testAdd() {
