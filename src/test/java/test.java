@@ -7,6 +7,6 @@ public class test {
     @Test
     public void testAdd() {
         Main main = new Main();
-        assertEquals(5, main.add(2, 3), "2 + 3 devrait être égal à 5");
+        assertEquals(5, main.add(2, 7), "2 + 3 devrait être égal à 5");
     }
 }
