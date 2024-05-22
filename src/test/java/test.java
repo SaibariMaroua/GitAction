@@ -1,5 +1,7 @@
 import org.example.Main;
-import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
+
 
 import static org.junit.Assert.assertTrue;
 
