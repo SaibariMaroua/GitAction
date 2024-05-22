@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example.MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.06 s <<< FAILURE! - in org.example.MainTest
+testAdd  Time elapsed: 0.047 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 2 + 3 devrait être égal à 5 ==> expected: <5> but was: <11>
+	at org.example.MainTest.testAdd(MainTest.java:11)
+
